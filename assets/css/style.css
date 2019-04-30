@@ -1,0 +1,35 @@
+header {
+    padding: 30px;
+    background-color: lightgrey;
+    width: 200px;
+    margin-left: 10px;
+    font-size: large;
+    font-weight: bold;
+    padding-right: 10px;
+}
+.rules {
+    margin-left: 10px;
+    background-color:orange;
+    margin-top: 10px;
+}
+#score {
+    background-color: lightgray;
+    width: 100px;
+    margin-left: 10px;
+}
+#yourtotal {
+    background-color: lightslategray;
+    width: 200px;
+    margin-left: 10px;
+}
+#random-number {
+    background-color: darkgrey;
+    width: 100px;
+    margin-left: 10px;
+}
+#playerTotal {
+    background-color: lightslategrey;
+    width: 150px;
+    margin-left: 10px;
+    height: 50px;
+}
